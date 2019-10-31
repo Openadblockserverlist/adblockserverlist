@@ -1,0 +1,8 @@
+I change the list a little bit
+
+1. I added ::::: to the start of every line.
+
+2. I past AdguardDNS.txt, adservers.txt, simple_ad.txt, easylist_adservers.txt and Easylist.txt into one file called "adblockserverlist.txt"
+(See license informations)
+
+this is my changelog!
